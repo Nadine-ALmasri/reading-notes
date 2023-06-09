@@ -5,7 +5,7 @@
 
 -----
 
- # The courses we will be taken:
+ ## **The courses we will be taken:**
 
 - ## *Code 102* - Intro to Software Development 
 * ## *Code 201* - Foundations of Software Development
