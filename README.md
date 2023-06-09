@@ -3,7 +3,6 @@
 ### **This website is an introduction for what we will be having as courses.**
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1D_ZrTKj_6IwAMHfMveuOcwmoaFvcZ3FvrwicG62M7yN7U4QZf-aXCvOUeQrhMxMkEM&usqp=CAU)
 
------
 
  ## **The courses we will be taken:**
 
