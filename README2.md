@@ -1,5 +1,7 @@
 
-
+[Home](./README.md)       
+[The Growth Mindset](./README2.md)    
+[ Practice in the Terminal](./Terminal.md)
 ## **The Growth Mindset** 
 -----
 
@@ -15,5 +17,3 @@
 - Personal Growth and Well-being
 
 -----
-
-[Previews-Page](./README.md)

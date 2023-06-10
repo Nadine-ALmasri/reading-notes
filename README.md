@@ -1,3 +1,7 @@
+[Home](./README.md)       
+[The Growth Mindset](./README2.md)    
+[ Practice in the Terminal](./Terminal.md)
+
 # Reading Notes
 
 ### **This website is an introduction for what we will be having as courses.**
@@ -15,4 +19,4 @@
 >"In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them."
  *- Andrew Hunt*
 
- [Next-Page](./README2.md)
+ 
