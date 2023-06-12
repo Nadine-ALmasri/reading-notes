@@ -2,7 +2,8 @@
 [Home](./README.md)       
 [The Growth Mindset](./README2.md)    
 [ Practice in the Terminal](./Terminal.md)  
-[Introduction to SQL](./sql.md)
+[Introduction to SQL](./sql.md)  
+    [Read:Class 01](./Read%3AClass01.md)
 ## **The Growth Mindset** 
 -----
 
