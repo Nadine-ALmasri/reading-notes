@@ -1,8 +1,4 @@
-[Home](./README.md)       
-[The Growth Mindset](./README2.md)    
-[ Practice in the Terminal](./Terminal.md)   
-[Introduction to SQL](./sql.md)    
-   [Read:Class 01](./Class01.md)
+
 
 # Introduction 
 Debugging and Try/Catch blocks are important for learning C# and .NET because they allow you to handle and resolve errors in your code, improving its reliability and stability.
@@ -44,3 +40,9 @@ In .NET, exception handling is like having a safety net for your code. We use tr
 ## Things I want to know more about 
 ---
 - git to look at more of the Case Studies and how these systems is programmed .
+
+[Home](./README.md)       
+[The Growth Mindset](./README2.md)    
+[ Practice in the Terminal](./Terminal.md)   
+[Introduction to SQL](./sql.md)    
+   [Read:Class 01](./Class01.md)

@@ -1,8 +1,4 @@
-[Home](./README.md)       
-[The Growth Mindset](./README2.md)    
-[ Practice in the Terminal](./Terminal.md)   
-[Introduction to SQL](./sql.md)   
-[Read:Class 01](./Class01.md)
+
 # Practice in the Terminal
 ## Introduction:
 
@@ -25,6 +21,10 @@ These tutorials and cheat sheet from Ryan's Tutorials offer comprehensive covera
 - "Linux Command Line Cheat Sheet": This cheat sheet serves as a quick reference for common Linux commands. It provides concise summaries and examples for commands categorized by functionality. The cheat sheet includes commands for file operations, text processing, system information, network-related tasks, and more. It is a handy resource for quick command lookup and serves as a useful tool for Linux users.
 
 
-
+[Home](./README.md)       
+[The Growth Mindset](./README2.md)    
+[ Practice in the Terminal](./Terminal.md)   
+[Introduction to SQL](./sql.md)   
+[Read:Class 01](./Class01.md)
 
 

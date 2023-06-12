@@ -1,9 +1,5 @@
 
-[Home](./README.md)       
-[The Growth Mindset](./README2.md)    
-[ Practice in the Terminal](./Terminal.md)  
-[Introduction to SQL](./sql.md)  
-    [Read:Class 01](./Class01.md)
+
 ## **The Growth Mindset** 
 -----
 
@@ -19,3 +15,8 @@
 - Personal Growth and Well-being
 
 -----
+[Home](./README.md)       
+[The Growth Mindset](./README2.md)    
+[ Practice in the Terminal](./Terminal.md)  
+[Introduction to SQL](./sql.md)  
+    [Read:Class 01](./Class01.md)
