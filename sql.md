@@ -28,4 +28,5 @@
 [ Practice in the Terminal](./Terminal.md)   
 [Introduction to SQL](./sql.md)    
    [Read:Class 01](./Class01.md)      
-    [Data Structures and Algorithms](./Data.md)
+    [Data Structures and Algorithms](./Data.md)                                                  
+    [Engineering Readings](./EngineeringReadings.md) 
