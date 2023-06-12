@@ -20,4 +20,5 @@
 [The Growth Mindset](./README2.md)    
 [ Practice in the Terminal](./Terminal.md)  
 [Introduction to SQL](./sql.md)       
-                               [Read:Class 01](./Class01.md)
+                               [Read:Class 01](./Class01.md)   
+     [Data Structures and Algorithms](./Data.md)
