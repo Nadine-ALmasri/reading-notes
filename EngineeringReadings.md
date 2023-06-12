@@ -14,6 +14,7 @@ My personal background, interests, creativity, and problem-solving approach. Emp
  -  Reach out to colleagues, online communities, or programming forums for input and suggestions.
 
  ## Things I want to know more about
+               
  -----
  - Problem-solving methodologies
  - Debugging strategies
