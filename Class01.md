@@ -46,5 +46,6 @@ In .NET, exception handling is like having a safety net for your code. We use tr
 [ Practice in the Terminal](./Terminal.md)   
 [Introduction to SQL](./sql.md)    
    [Read:Class 01](./Class01.md)    
-     [Data Structures and Algorithms](./Data.md)   
-     [Engineering Readings](./EngineeringReadings.md)
+     [Data Structures and Algorithms](./Data.md)     
+     [Engineering Readings](./EngineeringReadings.md)   
+[Unit Testing and Documentation](./UnitTesting.md)
