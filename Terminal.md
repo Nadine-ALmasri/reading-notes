@@ -28,4 +28,5 @@ These tutorials and cheat sheet from Ryan's Tutorials offer comprehensive covera
 [Read:Class 01](./Class01.md)    
 [Data Structures and Algorithms](./Data.md)          
  [Engineering Readings](./EngineeringReadings.md)    
-[Unit Testing and Documentation](./UnitTesting.md)
+[Unit Testing and Documentation](./UnitTesting.md)                 
+[Read:Class 03](./class03.md) 

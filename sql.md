@@ -29,4 +29,5 @@
 [Introduction to SQL](./sql.md)    
    [Read:Class 01](./Class01.md)      
     [Data Structures and Algorithms](./Data.md)                                                  
-    [Engineering Readings](./EngineeringReadings.md) 
+    [Engineering Readings](./EngineeringReadings.md)                
+    [Read:Class 03](./class03.md) 

@@ -48,4 +48,5 @@ In .NET, exception handling is like having a safety net for your code. We use tr
    [Read:Class 01](./Class01.md)    
      [Data Structures and Algorithms](./Data.md)     
      [Engineering Readings](./EngineeringReadings.md)   
-[Unit Testing and Documentation](./UnitTesting.md)
+[Unit Testing and Documentation](./UnitTesting.md)                        
+[Read:Class 03](./class03.md) 
