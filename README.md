@@ -27,4 +27,5 @@
 [Read:Class 03](./class03.md)                                                                                                                              
 [Read:Class 04](./class04.md)    
 [Read:Class 05](./class05.md)    
-[Read:Class 06](./class06.md) 
+[Read:Class 06](./class06.md)      
+[Read:Class 07](./class07.md) 
