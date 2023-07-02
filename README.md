@@ -25,4 +25,5 @@
      [Engineering Readings](./EngineeringReadings.md)   
 [Unit Testing and Documentation](./UnitTesting.md)                  
 [Read:Class 03](./class03.md)                                                                                                                              
-[Read:Class 04](./class04.md) 
+[Read:Class 04](./class04.md)    
+[Read:Class 05](./class05.md) 
