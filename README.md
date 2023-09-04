@@ -30,22 +30,16 @@
 [Read:Class 06](./class06.md)      
 [Read:Class 07](./class07.md)                       
 [Read:Class 08](./class08.md)                                                       
-[Read:Class 09](./class09.md)
-
-
-[Read:Class 11](./class11.md)    
-
-[Read:Class 12](./class12.md)
-
+[Read:Class 09](./class09.md)   
+[Read:Class 11](./class11.md)                 
+[Read:Class 12](./class12.md)                 
 [Read:Class 13](./class13.md)         
  [Read:Class 14](./class14.md)           
-[Read:Tree](./Tree.md)
-
+[Read:Tree](./Tree.md)                  
  [Read:Class 16](./class16.md)           
-      [Read:Class 17](./class17.md)
-      
+      [Read:Class 17](./class17.md)            
    [Read:Class 18](./class18.md)         
     [Read:Class 19](./class19.md)                            
-    [Read:Class 26](./class26.md)
-                       
- [Read:Class 27](./class27.md)
+    [Read:Class 26](./class26.md)         
+ [Read:Class 27](./class27.md)                     
+[Read:Class 28](./class28.md)
