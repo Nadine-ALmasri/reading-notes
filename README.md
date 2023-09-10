@@ -42,4 +42,5 @@
     [Read:Class 19](./class19.md)                            
     [Read:Class 26](./class26.md)         
  [Read:Class 27](./class27.md)                     
-[Read:Class 28](./class28.md)
+[Read:Class 28](./class28.md)               
+[Read:Class 29](./class29.md)
