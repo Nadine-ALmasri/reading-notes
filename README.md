@@ -44,3 +44,4 @@
  [Read:Class 27](./class27.md)                     
 [Read:Class 28](./class28.md)               
 [Read:Class 29](./class29.md)
+[Read:Class 30](./class30.md)
