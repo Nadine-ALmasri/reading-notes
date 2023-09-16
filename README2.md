@@ -23,4 +23,6 @@
     [Data Structures and Algorithms](./Data.md)    
  [Engineering Readings](./EngineeringReadings.md)    
  [Unit Testing and Documentation](./UnitTesting.md)                
- [Read:Class 03](./class03.md) 
+ [Read:Class 30](./class30.md) 
+
+ [Read:Class 31](./class31.md) 
