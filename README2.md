@@ -26,3 +26,5 @@
  [Read:Class 30](./class30.md) 
 
  [Read:Class 31](./class31.md) 
+
+  [Read:Class 32](./class32.md) 
