@@ -30,3 +30,8 @@
   [Read:Class 32](./class32.md) 
 
    [Read:Class 33](./class33.md) 
+
+
+[Read:Class 34](./class34.md) 
+
+[Read: Graphs](./Read:Graphs)
